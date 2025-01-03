@@ -1,0 +1,15 @@
+Day -1: (1.5 hours)
+- listed the points to imporve (observation/ feedback from the previous semester)
+- Roadmap to Webapplication security 
+- discussed the course plan for both theory and lab
+- Assessment details - Assignment for both theory and lab 
+
+- Started the topic- Securing the web application 
+- creating web page is easy - securing the web application is challenging 
+- due to different layers 
+             -user layer - shoulder surfing, keylogger, phishing ,....
+             -client 
+             -network
+             -server
+             -database
+-------------------------------------------------------------------------------------------------            
