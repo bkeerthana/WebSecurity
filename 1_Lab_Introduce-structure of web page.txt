@@ -1,0 +1,67 @@
+Objective:
+The goal of this assignment is to introduce students to the basic structure of a webpage. By the end of this exercise, students will be able to:
+
+- Create a webpage using HTML
+- Inspect the structure and content of webpages
+- Apply styles to webpages using CSS
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Task 1: Create a Simple HTML Page
+Create a basic HTML page with the following elements. Feel free to choose the content for each element:
+
+Title: <title>
+Meta tags: <meta>
+Headings: Use <h1>, <h2>, and <h3> for different levels of headings
+Paragraphs: <p>
+Lists: Create an ordered or unordered list (<ul> or <ol>) with at least 3 items
+Links: <a> (Include both internal and external links)
+Images: <img> (Make sure to properly use the alt attribute)
+Table: <table> (Create a table with at least 2 rows and 2 columns, using <tr> and <td>)
+Multimedia: Include an audio (<audio>) and a video (<video>) element with controls enabled
+Embed Content: Use <iframe> or <embed> to embed external content such as a YouTube video or a map
+Comments: Use HTML comments (<!-- -->) to explain the purpose of each element
+Deliverable:
+Submit a well-structured HTML page that includes all of the above elements. Be sure to include comments that describe the function of each element.
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+Task 2: Inspect the Source Code of a Website
+Visit any website of your choice and inspect its HTML source code. Identify and explain the following elements:
+
+Metadata: Locate the <meta> tags and explain their purpose in the page.
+Headings and Semantic Elements: Examine the use of headings (<h1>, <h2>, etc.) and other semantic elements (e.g., <header>, <footer>, <section>).
+Multimedia: Look for multimedia elements such as <video>, <audio>, or embedded content (e.g., <iframe>).
+Security-Relevant Tags: 
+Identify any security-related tags such as Content Security Policy (CSP) or sandboxed iframes, and explain how they help secure the page.
+CORS (Cross-Origin Resource Sharing): Look for CORS headers and explain their role in securing resources.
+SRI (Subresource Integrity): Check if SRI attributes are used to ensure the integrity of external resources and explain their purpose.
+Deliverable:
+Submit a summary of your findings, including the metadata, headings, multimedia elements, and any security-related tags identified on the website.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
+Task 3: Inspect the Source Code of Your Page
+Inspect the page you created in Task 1 using your browser’s developer tools. Analyze the structure and content of the page and make sure the HTML elements are correctly implemented.
+
+Deliverable:
+Submit a report with your observations on the HTML structure and CSS usage. Include any suggestions for improvements or corrections you could make.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Task 4: Apply Styles Using CSS
+In a separate external CSS file, apply the following styles to the webpage you created in Task 1:
+
+Change the font color of the <h1> heading.
+Set the background color of the page.
+Set the font size of the paragraph <p> to 16px (or as desired).
+Style the list (<ul> or <ol>) by adding bullets and setting the list items to have a margin of 10px.
+Add a border and padding to a <div> container element.
+You may also apply additional styles of your choice to enhance the page.
+
+Deliverable:
+Submit the styled webpage, including the external CSS file with the required changes applied.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Assignments carries 10 Marks
+Deadline: 12.01.2025
+Evaluation is based on Deadline, Originality , Creativity, Neatness and Completeness 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The struggle you are in today is developing the strength you need for tomorrow. 
+On the road to success, there are no shortcuts.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
