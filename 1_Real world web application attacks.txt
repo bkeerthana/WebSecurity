@@ -1,0 +1,13 @@
+Report on 5 Real-World Web Application Attacks:
+-  Identify the Threats, Vulnerabilities, and Affected Security Pillars (Confidentiality, Integrity, Availability). 
+-  Analyze the Risks Involved and discuss the impact of each attack, including potential legal, financial, and reputational consequences for the affected organization.
+-  Propose remediation measures or security best practices that could have prevented each attack 
+-  Recommend strategies to mitigate the associated risks. 
+-  Cite the sources used to describe each attack.
+
+Assignments carries 10 Marks
+Deadline: 12.01.2025
+Evaluation is based on Deadline, Originality, Creativity, Neatness and Completeness 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Confidence and Hard-work is the best medicine to kill the disease called failure. It will make you a successful person.” – Abdul Kalam
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
