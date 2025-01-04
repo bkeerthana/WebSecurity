@@ -1,0 +1,63 @@
+- Tell me about yourself
+                          - skills and qualities 
+                          - add value 
+   where it go wrong      - don't be overconfident
+
+- what inspired to take cybersecurity course 
+            - innovative
+            - interested 
+            - solve the challenge 
+- about your resume contents 
+- about your projects 
+- what is security
+- what is cybersecurity / Information security / cloud security 
+- Identification, authentication , authorization
+- cyber kill chain 
+           - 5 steps or 7 steps from recon to clear tracks
+- CIA Triad
+- PPT
+- TVA
+- AAA
+- Difference between audit and accounting 
+- difference between vulnerability assessment and pentesting 
+- difference between ethical hacking and pentesting 
+- what is incident response 
+- How do you prioritize incidents
+- SIEM
+- What is a three-way handshake?
+- Which flag is for Advance/Aggressive Scan in nmap?
+- What is subdomain enumeration?
+- What is a subdomain
+- What is DNS?
+- One main difference between TCP and UDP?
+- What is the first step of access control?
+-What does ACL stands for? And what's use of it?
+-ICMP stands for------?
+-What is the second name of the proxy server?
+-What is the size of the UDP header?
+-Difference between IDS and IPS?
+-stateful Vs stateless
+-What is SQL injection?
+-What is Cryptography?
+-What exactly are encryption and decryption?
+-What are the goal of cryptography?
+-What is the difference between a private key and a public key?
+-What are symmetric and asymmetric key systems?
+-What is polyalphabatic encryption?
+-What is a block cipher?
+-What is cipher block chaining?
+-What is the Public Key Infrastructure(PKI)?
+-why should we hire you?
+-How can we rank or score a vulnerability?
+-What is CVE?
+-How to detect whether a file has changed in the system?
+-Are you a team player or prefer to work alone?
+-Why Cloud Computing is a risk?
+-Why we need Cloud Computing?
+- How do you secure the server 
+- what are your strengths and weakness 
+- Tell me about the subjects you learnt  during 1st semester 
+- which subject had more impact on you why? 
+-owasp top 10 
+-burpsuit 
+- wireshark 
