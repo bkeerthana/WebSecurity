@@ -234,4 +234,59 @@ Explain Weaponization in Cyber Kill chain ?
 What is Delivery in cyber kill chain ?
 What is Difference between Red Teaming and Penetration Testing ?
 Explain any Vulnerability You know with respect to Cyber Kill Chain and MITRE ATT&CK Framework ?
+Why XoR is very important in the Crypto world
+Network Protocols
+Could you explain what is phishing? How can it be prevented? 
+What could attackers do with HTTP Header Injection vulnerability?
+Describe the last program or script that you wrote. What problem did it solve?
+Which classification of vulnerabilities get exploited the most?
+How often should you scan?
+What is the difference between an external and internal scan?
+What is the difference between authenticated and unauthenticated scan?
+How could a scan fingerprint an OS?
+What is a CVSS score?
+How should you break out scans?
+How would you advise the different organizations on what they should patch first?
+What is a vulnerability?
+Are you familiar with any of the industry standard ways that vulnerabilities are tracked?
+What is CVE and why is the standardization it provides important?
+Where would you go to find additional info about a vulnerability?
+What is the difference between an exploit and a vulnerability?
+If there is a threat, but no vulnerability, would you say that there is still risk? What if there is a vulnerability, but no threat?
+Can you list any vulnerabilities that you've recently heard about?
+Are you familiar with any of the tools used to scan for vulnerabilities? If no, can you name any?
+What is Intrusion Detection?
+List the attributes of Security Testing?
+What are the SSL connections and an SSL session?
+List the full names of abbreviations related to Software security?
+List down some factors that can cause vulnerabilities?
+List the parameters that define an SSL session connection?
+What are the three classes of intruders?
+List the parameters that define an SSL session state?
+
+
+Full Names of Abbreviations Related to Software Security:
+
+CWE: Common Weakness Enumeration
+CVE: Common Vulnerabilities and Exposures
+XSS: Cross-Site Scripting
+CSRF: Cross-Site Request Forgery
+SQLi: SQL Injection
+OSINT: Open Source Intelligence
+DDoS: Distributed Denial of Service
+WAF: Web Application Firewall
+IDS: Intrusion Detection System
+IPS: Intrusion Prevention System
+
+Factors that Can Cause Vulnerabilities: Several factors can contribute to software vulnerabilities, including:
+
+Inadequate input validation.
+Poor coding practices.
+Misconfigured security settings.
+Weak or default passwords.
+Lack of timely security patches and updates.
+Third-party libraries with vulnerabilities.
+Inadequate access control.
+Social engineering attacks.
+Insufficient security testing.
 
