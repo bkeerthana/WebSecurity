@@ -18,5 +18,7 @@ Day -2 (1.5 hours)
 Components of Web Application Security
           - Discuss each layer (user, client, network, server, database)
 
-          - Role, Threat, Vulnerabilites, Attacks, Security issues, Root cause and preventive measure 
-Explore : other layers  - API ,... 
+          - Role, Threat, Vulnerabilites, Attacks, Security issues and preventive measure 
+Explore : other layers  - API, Third party , microservices 
+---------------------------------------------------------------------------------------------------
+ 
