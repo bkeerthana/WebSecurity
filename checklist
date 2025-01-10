@@ -21,4 +21,35 @@ Components of Web Application Security
           - Role, Threat, Vulnerabilites, Attacks, Security issues and preventive measure 
 Explore : other layers  - API, Third party , microservices 
 ---------------------------------------------------------------------------------------------------
+Day -3 (1.5) 
+
+Evolution of web
+         - Impact and Risk 
+
+         - From web 1.0 to web 5.0 
+                  with respect to year, technology used , Application 
  
+Where It Goes Wrong in Web Application Security
+         - Configuration 
+         - Policy 
+         - Mechanism 
+         - Assumptions 
+
+         Configuration 
+         - Common formats:
+           Plain text (e.g., .conf, .ini, .cfg)
+           Markup languages (e.g., XML, YAML)
+         
+         Available         
+         the application server, database, networking and operating system 
+         
+         it is important to set up.
+
+         Example
+         Incorrect Server or Application Configurations
+         
+         Default configurations are left unchanged (e.g., default admin credentials, unsecured ports, or open services) that can be exploited by attackers.
+
+         usecase 
+         database, apache server    
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
