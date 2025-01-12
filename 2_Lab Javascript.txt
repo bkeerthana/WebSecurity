@@ -747,4 +747,7 @@ const countries = ['Finland', 'Sweden', 'Norway']
   12. Use the rgb color generator function or hexaColor generator to create 10 divs with random background colors
   13. Use the countries.js to visualize all the countries on the HTML document. You need one wrapper div and box for each countries. In the box display, the letter the country starts with, the name of the country and the number of characters for the country name.
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------
+“Success isn’t overnight. It’s when everyday you get a little better than the day before. It all adds up.” – Dwayne Johnson
+“Do what you can, with what you’ve got, where you are.” – Teddy Roosevelt
+-----------------------------------------------------------------------------------------------------------------------------------------------------
