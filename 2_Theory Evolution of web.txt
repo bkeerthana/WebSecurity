@@ -1,0 +1,24 @@
+Create a comparative table summarizing Web 1.0 to Web 5.0 based on the following parameters:
+
+Time Period: Approximate years when each phase was prominent.
+
+Content Type: Nature of content (static, dynamic etc.).
+
+User Interaction: Level and type of interaction supported.
+
+Technology Used: Major technologies associated with each phase (e.g., HTML, JavaScript, AI).
+
+Example Platforms: Applications or websites typical of each web phase.
+
+Security Concerns: Key security risks associated with the phase
+
+Attacks: Possible attacks 
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+“Our greatest weakness lies in giving up. The most certain way to succeed is always to try just one more time.” – Thomas A. Edison
+
+“Great things in business are never done by one person. They’re done by a team of people.” – Steve Jobs
+
+“There is no such thing as a self-made man. You will reach your goals only with the help of others.” – George Shinn
+
+------------------------------------------------------------------------------------------------------------------------------------------
