@@ -53,3 +53,16 @@ Where It Goes Wrong in Web Application Security
          usecase 
          database, apache server    
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day-4 (1.5) More on configuration files 
+
+         - Location of configuration files 
+         - In different layers  client,server,network,database,api,cloud and so on 
+
+         - Possible vulnerabilites present in configruation files 
+
+         - For the given scenrio - identified the vulnerabilite
+         - abstract level -CWE - with respect to configruation file vulnerabilites 
+
+         - Policies 
+         - In different layers user,client,server,network,database 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
