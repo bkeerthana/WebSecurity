@@ -66,3 +66,13 @@ Day-4 (1.5) More on configuration files
          - Policies 
          - In different layers user,client,server,network,database 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day-5   
+       - Mechanisms 
+       - Assumptions 
+       - Attack vector, path and surface 
+       - Case Study
+            Discussion wtih CIA, TV, Layers, gowrong, vps, ImpactRisk, Pervention&Mitigation
+            - Case 1: Sony PlayStation Network Breach
+            - Case 2: Equifax Data Breach 
+            - Case 3: Wannacry 
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
