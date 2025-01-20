@@ -6,3 +6,6 @@ Reflection - Module 1
 4. Discuss how web application security can fail in terms of configuration, policy, or assumptions. Provide an example you’ve learned about.
 5. How do you think about risk and impact when evaluating web application security? 
 6. What prevention strategies have you found most effective. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------
+"If you get tired, learn to rest, not to quit." —Banksy
