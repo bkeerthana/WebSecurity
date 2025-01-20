@@ -1,0 +1,35 @@
+1. Write a script to log the current URL of the page using the window.location property. Extract and log any query parameters. Discuss how query parameters might be exploited in a phishing attack.
+
+2. Write a script to log the hostname, protocol, and pathname of the current page using window.location. Explain how attackers might manipulate these properties to perform malicious redirects.
+
+3.Write a script that uses window.location to redirect users to another webpage. Add a condition to restrict redirects only to trusted domains. Discuss the implications of open redirects in phishing attacks.
+
+4. Write a script to log the number of pages visited in the current session using window.history. Discuss potential privacy concerns if malicious scripts attempt to track browser history.
+
+5.Write a script using window.navigator to display the user agent string. Modify the script to identify and log whether the browser is Google Chrome, Mozilla Firefox, or an automation tool.
+
+6. Write a script to log the user's screen width and height using window.screen. Explain how attackers might use screen dimensions to craft phishing attacks.
+
+7.Write a script to open a new popup window using window.open. Discuss the risks associated with popup-based attacks and suggest mitigation strategies.
+
+8.Write a script to log the domain and origin of the current page using window.location. Explain how these properties are relevant in CORS security.
+
+9.Write a script using window.setTimeout that simulates a login timeout after 10 seconds of inactivity. Enhance the script to reset the timer whenever the user interacts with the page.
+
+10.Write a script that checks if the current URL uses "https" using window.location. Alert the user if the page is not secure and suggest measures to handle such scenarios.
+
+11.Write a script to open a new window and then close it using window.close.
+Discuss scenarios where malicious scripts might misuse this functionality to disrupt user experience.
+
+12.Write a script to scroll the webpage to the top using window.scrollTo.
+Modify the script to scroll to a specific element on the page.
+Discuss how attackers might use scrolling to hide malicious content or overlays.
+
+13. Write a script to retrieve the current webpage's title using document.title and log it to the console. Modify the title to include a security warning if it doesn't already contain "Secure." Explain how attackers might manipulate the document title for phishing or social engineering attacks.
+
+----------------------------------------------------------------------------------------
+'If you spend too much time thinking about a thing, you'll never get it done.' - Bruce Lee
+
+'If you really want to do something, you'll find a way. If you don't, you'll find an excuse.' - Jim Rohn
+
+
