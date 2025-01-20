@@ -1,0 +1,8 @@
+Reflection - Module 1
+
+1. What are the key lessons you learned about web application security, and how do they relate to the CIA Triad?
+2. How do vulnerabilities and exploits affect web applications, and how can you defend against these attacks?
+3. What role do different layers (client, server, database, etc.) play in web security, and what specific threats exist at each layer?
+4. Discuss how web application security can fail in terms of configuration, policy, or assumptions. Provide an example you’ve learned about.
+5. How do you think about risk and impact when evaluating web application security? 
+6. What prevention strategies have you found most effective. 
