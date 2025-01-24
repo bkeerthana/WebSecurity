@@ -76,3 +76,46 @@ Day-5
             - Case 2: Equifax Data Breach 
             - Case 3: Wannacry 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day-6
+       - Team Activity : Reflection on Module-1
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day-7
+       - Identify the vulnerbilites in different stages from Requirment, Design, Development , Deployment 
+       - During Design Phase 
+            Threat Modeling 
+       - Threat Modeling Vs Threat Analysis
+       - Threat Modeling
+               - Stages
+               - Approaches
+                      - Attacker Centric 
+                      - Asset Centric 
+                      - Security Centric 
+
+       - Attack Tree 
+               - Root Node
+               - Brancehs 
+               - Leaf node 
+               - Logic nodes 
+                       and 
+                       or 
+
+        - Procedure to built 
+             
+                Define the Goal:
+                Clearly articulate the attacker's ultimate objective (e.g., "Steal sensitive data").
+                
+                Identify Assets:
+                Pinpoint what the attacker is targeting (e.g., database, web server, user credentials).
+                
+                Enumerate Attack Vectors:
+                List possible approaches to achieve the goal (e.g., bypass authentication, exploit XSS, use phishing emails).
+                
+                Decompose Further:
+                Break down attack vectors into more detailed steps or sub-goals.
+                
+                Analyze Feasibility:
+                Assess the practicality of each path based on resources, skills, and time required.
+        - Activity
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
