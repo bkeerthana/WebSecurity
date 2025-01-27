@@ -117,5 +117,13 @@ Day-7
                 Assess the practicality of each path based on resources, skills, and time required.
         - Activity
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
+Day-8
+      - Threat Modeling  - Asset Centric 
+      - STRIDE  - Spoofing, Tampering , Repudiation , Information Disclosure , DoS, Prev. Esca. 
+      - Steps 
+           - Identify asset 
+           - Draw DFD 
+           - Mark STRIDE 
+           - provide solution 
+           - Revisit 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
