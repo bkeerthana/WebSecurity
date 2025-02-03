@@ -1,0 +1,41 @@
+Draw a Threat model based on asset centric apporach - STRIDE 
+Theme: Any application as per your choice 
+
+Refer: https://owasp.org/www-community/Threat_Modeling_Process
+
+Sample: Threat Model: Web-Based Healthcare Management System
+1. Identify Assets
+Patient Data: Personal information, medical history, prescriptions.
+User Authentication System: Login credentials, access tokens.
+Medical Records Database: Storage of sensitive patient data.
+Appointment Scheduling Module: Doctor-patient interactions.
+Billing System: Payment details, invoices.
+Healthcare APIs: Communication between different hospitals, pharmacies, and insurance providers.
+2. Identify Threats using STRIDE
+STRIDE Category	Threat Description	Affected Asset
+Spoofing	Attackers impersonate doctors or patients by exploiting authentication vulnerabilities.	User Authentication System
+Tampering	Unauthorized modification of medical records (e.g., altering prescriptions).	Medical Records Database
+Repudiation	Patients deny making certain payments or scheduling appointments, creating accountability issues.	Billing System, Appointment Module
+Information Disclosure	Sensitive patient data is exposed due to weak encryption or improper access controls.	Patient Data, Healthcare APIs
+Denial of Service (DoS)	Attackers flood appointment booking services, making the system unavailable.	Appointment Scheduling Module
+Elevation of Privilege	A low-privileged user (e.g., a receptionist) gains admin-level access.	User Authentication System, Database
+3. Attack Vectors & Mitigation Strategies
+Attack Vector	Possible Threats (STRIDE)	Mitigation
+Brute Force Attack	Spoofing	Implement multi-factor authentication (MFA) and rate-limiting.
+SQL Injection	Tampering, Information Disclosure	Use prepared statements, input validation.
+Man-in-the-Middle (MITM) Attack	Information Disclosure	Enforce HTTPS, use TLS encryption.
+Session Hijacking	Elevation of Privilege, Spoofing	Implement secure cookie attributes, session expiration policies.
+API Misuse/Abuse	Information Disclosure, Tampering	Implement API access control (OAuth, rate limiting, auditing).
+DDoS on Scheduling System	Denial of Service	Use Web Application Firewalls (WAFs), implement rate limiting, and cloud-based DDoS protection.
+4. Threat Model Diagram (Basic Structure)
+A Data Flow Diagram (DFD) can be drawn with:
+
+External Entities: Patients, Doctors, Admins.
+Processes: Authentication, Appointment Scheduling, Record Management, Payment Processing.
+Data Stores: Medical Database, Billing System.
+Data Flows: API communications, user inputs.
+Threat Indicators: Mark STRIDE threats at vulnerable points (e.g., Spoofing near authentication, DoS on booking module).
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+End is not the end if fact E.N.D. Means "Efforts Never Dies". – Dr. A.P.J. Abdul Kalam
+“Self-belief and hard work will always earn you success.” – Virat Kohli
