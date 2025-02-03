@@ -1,0 +1,33 @@
+1. Research a high-profile security incident related to a CVE (e.g., Log4Shell - CVE-2021-44228). Answer:
+       What was the root cause of the vulnerability?
+       What impact did it have on organizations and users?
+       How was the vulnerability mitigated?
+
+2. EternalBlue (CVE-2017-0144) - The Exploit Behind WannaCry
+       What is EternalBlue, and how does it exploit the SMB protocol?
+       How was EternalBlue used in the WannaCry ransomware attack?
+       Why did EternalBlue remain a significant risk even after Microsoft released a patch?
+       Suppose you are a security engineer in 2017—what immediate actions would you take after learning about this CVE?
+       How did the cybersecurity community respond to the widespread impact of WannaCry?
+
+3. Apache Struts Vulnerability (CVE-2017-5638) - The Equifax Breach
+      How did this Apache Struts vulnerability contribute to the Equifax data breach?
+      Why is input validation important in preventing such attacks?
+      What was the main reason Equifax failed to patch the vulnerability in time?
+      Discuss the legal and reputational consequences Equifax faced due to this breach.
+      What lessons can organizations learn from this incident regarding patch management and vulnerability disclosure?
+
+4. Sony PlayStation Network (PSN) Breach (2011) - CVE-2011-1290
+       What vulnerability (CVE-2011-1290) was exploited in the Sony PSN breach?
+       How did the attackers gain access to the PlayStation Network’s database?
+       What were the major consequences of this breach for Sony and its users?
+       Sony shut down PSN for 23 days after the attack. What security measures should have been in place to prevent such an extended outage?
+       How did Sony respond legally and technically after the breach?
+
+       ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+       Worry is like that ‘dayan’ or banshee / ghost / chudail which will slowly eat away your heart. Even the best of doctors won’t have medicine for you. Don’t be a Worrier. Be a Warrior.
+       Everything is possible for you," signifying the potential for achieving great things with determination. 
+       Never give-up
+       -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+       
+       
