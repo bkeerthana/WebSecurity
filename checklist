@@ -127,3 +127,87 @@ Day-8
            - provide solution 
            - Revisit 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day-9 
+      - Threat Modeling 
+         - DREAD
+         - DREAD Ratings 
+         - CVE      - common vulnerabilities and exposures
+         - CWE    - Common Weakness Enumeration
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+DREAD Ratings
+The ratings consist of:
+Damage 
+0, which is no damage
+5, which is information disclosure
+8, which is non-sensitive data of individuals being compromised
+9, which is non-sensitive administrative data being compromised
+10, which is destruction of the system in scope, the data, or loss of system availability
+
+
+Reproducibility relates to how easily (or likely) an attack can be replicated.
+
+The ratings consist of:
+
+0, which is nearly impossible or difficult
+5, which is complex
+7.5, which is easy
+10, which is very easy
+
+Reproducibility relates to how easily (or likely) an attack can be replicated.
+
+The ratings consist of:
+
+0, which is nearly impossible or difficult
+5, which is complex
+7.5, which is easy
+10, which is very easy
+
+Exploitability relates to how easily or likely a weakness or threat can be exploited.
+
+The ratings consist of:
+
+2.5, which requires advanced technical skills
+5, which requires tools that are available
+9, which requires application proxies
+10, which (only) requires browser
+
+Affected Users relates to the number of (end) users that could be affected by a threat being exploited.
+
+The ratings consist of:
+0, which is no users are affected
+2.5, which is only individual users are affected
+6, which is few users are affected
+8, which is administrative users are affected (these are more important users)
+10, which is all users are affected
+
+Discoverability relates to how likely a threat will be discovered by an attacker.
+
+The ratings consist of:
+
+0, which is hard to discover
+5, which is open requests can discover the threat
+8, which is a threat being publicly known or found
+10, which is the threat is easily discoverable, such as in an easily accessible page or form
+
+Low for overall ratings between 1-10
+
+	which is a low risk to the application or system in scope.
+
+
+Medium for overall ratings between 11-24
+
+	which is a medium or moderate risk to the application or system in scope.
+
+
+High for overall ratings between 25-39
+
+	which is a high or severe risk to the application or system in scope.
+
+
+Critical for overall ratings between 40-50
+
+	which is a critical risk to the application or system in scope.
+
+CVE      - common vulnerabilities and exposures
+CWE    - Common Weakness Enumeration
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
