@@ -2,6 +2,8 @@ Draw a Threat model based on asset centric apporach - STRIDE
 Theme: Any application as per your choice 
 
 Refer: https://owasp.org/www-community/Threat_Modeling_Process
+       https://docs.edgexfoundry.org/3.0/threat-models/stride-model/EdgeXFoundryThreatReportV2.2/
+
 
 Sample: Threat Model: Web-Based Healthcare Management System
 1. Identify Assets
