@@ -1,0 +1,26 @@
+Who is the domain registrar of www.manipal.edu?
+What is the domain creation date?
+What is the expiration date of the domain?
+Identify the name servers associated with the domain.
+Is there any contact email provided for administrative or technical support?
+What country is the domain registered in?
+Run a WHOIS query for example.com and check if the registrant’s details (name, address, email) are visible.
+If privacy protection is enabled, what information is displayed instead of actual owner details?
+What are the security implications of exposing or hiding data?
+Look for Name Server (NS) records and associated domains.
+what are the different methods to find the subdomain using both passive and active methods
+Identify CMS (WordPress, Joomla, etc.) and frameworks used.
+compare whatweb and wappalyzer
+Fetch the HTTP Header ( Many methods are available). Identify the tools used to find HTTP Header details 
+Check whether domain have firewall installed or not
+do they have load balancer 
+
+Search for exposed environment configuration files
+Look for log files that may contain sensitive information
+Find database backup files
+Find live camera feeds
+Search for open IoT device
+
+
+
+If the plan doesnt work, change the plan but not goal. 
