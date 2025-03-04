@@ -211,7 +211,7 @@ Critical for overall ratings between 40-50
 CVE      - common vulnerabilities and exposures
 CWE    - Common Weakness Enumeration
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-CVSS 
+Day -10 CVSS 
    - calculating Base score 
            - Attack vector 
            - Attack Complexity 
@@ -220,3 +220,6 @@ CVSS
            - Scope 
      - Calculating the Base Score 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Day -11 Information Gathering using OSINT  Information Gathering using Opensource tools 
+Day -12 Information Gathering using HTTP Header 
+Day -13 Web server vulnerabilities 
